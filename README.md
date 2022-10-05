@@ -21,3 +21,13 @@ python main.py
 ## Viewing The App
 
 Go to `http://127.0.0.1:5000`
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/muzammil-85/notepad-web/master/readmeResource/homepage.png)
+
+![App Screenshot](https://raw.githubusercontent.com/muzammil-85/notepad-web/master/readmeResource/loginimg.png)
+
+![App Screenshot](https://raw.githubusercontent.com/muzammil-85/notepad-web/master/readmeResource/signup.png)
+
+
